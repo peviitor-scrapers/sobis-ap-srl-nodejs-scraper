@@ -10,11 +10,11 @@
 | Location | JUD. SIBIU, MUN. SIBIU, STR. ŞERBOTA, NR.1A |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-10-03 |
+| Last Scraped | 2026-10-04 |
 
 ## Current Job Listings (8)
 
-_Generated: 2026-10-03T11:08:59.889Z_
+_Generated: 2026-10-04T11:48:55.079Z_
 
 ### INGINER DE SISTEM ÎN INFORMATICA
 
