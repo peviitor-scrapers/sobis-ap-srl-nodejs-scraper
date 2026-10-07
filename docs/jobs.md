@@ -10,11 +10,19 @@
 | Location | JUD. SIBIU, MUN. SIBIU, STR. ŞERBOTA, NR.1A |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-10-06 |
+| Last Scraped | 2026-10-07 |
 
-## Current Job Listings (8)
+## Current Job Listings (9)
 
-_Generated: 2026-10-06T12:47:12.958Z_
+_Generated: 2026-10-07T12:41:41.483Z_
+
+### Specialist Suport Aplicații
+
+- **URL:** [https://sobis-ap.ro/cariere#careers-panel-specialist-suport-contabilitate-mijloace-fixe-salarizare](https://sobis-ap.ro/cariere#careers-panel-specialist-suport-contabilitate-mijloace-fixe-salarizare)
+- **Work Mode:** on-site
+- **Location:** Sibiu
+- **Tags:** sql, git, ai
+- **Status:** scraped
 
 ### INGINER DE SISTEM ÎN INFORMATICA
 
