@@ -10,11 +10,11 @@
 | Location | JUD. SIBIU, MUN. SIBIU, STR. ŞERBOTA, NR.1A |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
 ## Current Job Listings (9)
 
-_Generated: 2026-10-26T12:17:47.219Z_
+_Generated: 2026-10-27T11:38:19.563Z_
 
 ### Specialist Suport Aplicații
 
