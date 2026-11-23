@@ -10,11 +10,11 @@
 | Location | JUD. SIBIU, MUN. SIBIU, STR. ŞERBOTA, NR.1A |
 | Website | [https://sobis-ap.ro](https://sobis-ap.ro) |
 | Careers | [https://sobis-ap.ro/cariere](https://sobis-ap.ro/cariere) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
-## Current Job Listings (9)
+## Current Job Listings (10)
 
-_Generated: 2026-11-22T14:05:11.162Z_
+_Generated: 2026-11-23T17:26:51.876Z_
 
 ### Specialist Suport Aplicații
 
@@ -22,6 +22,14 @@ _Generated: 2026-11-22T14:05:11.162Z_
 - **Work Mode:** on-site
 - **Location:** Sibiu
 - **Tags:** sql, git, ai
+- **Status:** scraped
+
+### Dezvoltator software
+
+- **URL:** [https://sobis-ap.ro/cariere#careers-panel-senior-dezvoltator-dotnet-angular](https://sobis-ap.ro/cariere#careers-panel-senior-dezvoltator-dotnet-angular)
+- **Work Mode:** on-site
+- **Location:** Sibiu
+- **Tags:** sql, server, c#, .net, angular, vue, postgresql, docker, git, ai, asp.net, api
 - **Status:** scraped
 
 ### INGINER DE SISTEM ÎN INFORMATICA
